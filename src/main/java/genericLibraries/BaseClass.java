@@ -21,7 +21,7 @@ import pomPages.CourseList;
 import pomPages.LoginPage;
 import pomPages.UserPage;
 import pomPages.WelecomePage;
-
+//Base class (checking push and pull)
 public class BaseClass {
 	//@BeforeSuite
 	//@BeforeTest
